@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpFinalMatematica", "TpFinalMatematica.csproj", "{FD878E80-AB96-42EE-9A41-1AFFDD240EA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD878E80-AB96-42EE-9A41-1AFFDD240EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD878E80-AB96-42EE-9A41-1AFFDD240EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD878E80-AB96-42EE-9A41-1AFFDD240EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD878E80-AB96-42EE-9A41-1AFFDD240EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4206900-1A23-4012-A759-CC8442689040}
+	EndGlobalSection
+EndGlobal
